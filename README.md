@@ -127,6 +127,17 @@ The frontend will be accessible at `http://localhost:5173`.
 2. Confirm the action (optional implementation)
 3. A success message is displayed, and the contact is removed from the table
 
+
+<h2>Project Screenshots:</h2>
+
+<div style="display: flex  ">
+<img src="" alt="project-screenshot" width="500" height="">
+<img src="" alt="project-screenshot" width="500" height="">
+<img src="" alt="project-screenshot" width="500" height="">
+<img src="" alt="project-screenshot" width="500" height="">
+</div>
+
+
 ## Technologies Used
 
 ### Frontend
